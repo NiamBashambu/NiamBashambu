@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NiamBashambu
-- 🔭 I’m currently working on ... BSTLab
-- 🌱 I’m currently learning ... Javascript Frameworks and Java
+- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning ... 
 - 📫 How to reach me: ... niambashambu@icloud.com 
 
 
