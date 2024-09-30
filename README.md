@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NiamBashambu
-- 🔭 I’m currently working on ... AI RUNNING APP
+- 🔭 I’m currently working on ... OptiRun
 - 🌱 I’m currently learning ... MySQL
 - 📫 How to reach me: ... niambashambu@icloud.com 
 
