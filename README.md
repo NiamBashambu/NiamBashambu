@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on ... OptiRun
 - 🌱 I’m currently learning ... MySQL
 - 📫 How to reach me: ... niambashambu@icloud.com 
+https://niambashambu.com/  
 
 
 --- 
@@ -17,4 +18,3 @@
 
 [instagram]: https://www.instagram.com/niam.bashambu/
 [linkedin]: https://www.linkedin.com/in/niam-bashambu-1a3571184/
-[website]: https://niambashambu.com/ 
