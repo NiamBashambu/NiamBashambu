@@ -2,6 +2,8 @@
 - 🔭 I’m currently working on ... OptiRun
 - 🌱 I’m currently learning ... MySQL
 - 📫 How to reach me: ... niambashambu@icloud.com 
+
+
 https://niambashambu.com/  
 
 
