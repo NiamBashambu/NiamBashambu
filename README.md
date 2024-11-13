@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NiamBashambu
 - 🔭 I’m currently working on ... OptiRun
-- 🌱 I’m currently learning ... MySQL
+- 🌱 I’m currently learning ... SQL
 - 📫 How to reach me: ... niambashambu@icloud.com 
 
 
